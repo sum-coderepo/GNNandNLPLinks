@@ -15,3 +15,4 @@ https://github.com/sum-coderepo/stat453-deep-learning-ss21 </br>
 https://github.com/rasbt/machine-learning-book </br>
 https://github.com/rasbt/deeplearning-models </br>
 https://github.com/sum-coderepo/NLP-Tutorial-DeepLearning </br>
+https://github.com/sum-coderepo/DeepLearning_AndOptimizatons </br>
