@@ -1,7 +1,11 @@
 This Repo is only to place links related to GNN and NLP.
 
 
-### Own Github
+### Own Github with multiple Links
+
+https://github.com/sum-coderepo/GNN-Tutorials </br>
+
+
 
 https://github.com/sum-coderepo/pytorch-Deep-Learning </br>
 https://github.com/sum-coderepo/deep-learning-wizard </br>
