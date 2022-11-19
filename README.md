@@ -13,6 +13,7 @@ https://github.com/sum-coderepo/NLP-Tutorial-DeepLearning </br>
 
 #### Blogs
 https://medium.com/@mayurbhangale/relevance-ranking-and-search-a98b35ebc7b3  </br>
+https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925 </br>
 
 #### Research Paper
 https://aclanthology.org/D18-1211.pdf Deep Relevance Ranking Using Enhanced Document-Query Interactions </br> 
