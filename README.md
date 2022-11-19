@@ -11,7 +11,11 @@ https://github.com/sum-coderepo/NLP-Tutorial-DeepLearning </br>
 
 ## <ins> Information Retrieval </ins>
 
+#### Blogs
 https://medium.com/@mayurbhangale/relevance-ranking-and-search-a98b35ebc7b3  </br>
+
+#### Research Paper
+https://aclanthology.org/D18-1211.pdf </br> Deep Relevance Ranking Using Enhanced Document-Query Interactions
 
 
 ## <ins> Unorganised </ins>
