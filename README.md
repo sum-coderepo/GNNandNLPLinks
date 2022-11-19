@@ -9,7 +9,9 @@ https://github.com/sum-coderepo/NLP-Tutorial-DeepLearning </br>
 
 
 
+## <ins> Information Retrieval </ins>
 
+https://medium.com/@mayurbhangale/relevance-ranking-and-search-a98b35ebc7b3  </br>
 
 https://github.com/sum-coderepo/deep-learning-wizard </br>
 https://github.com/sum-coderepo/GradientsAndOptimizations </br>
